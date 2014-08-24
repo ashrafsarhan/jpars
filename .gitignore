@@ -1,0 +1,12 @@
+# Generated Folders/Files #
+/target/
+.classpath
+.settings/
+
+# Class Files #
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
